@@ -3,6 +3,7 @@ I like programming and machine learning. Currently studying GeoSpatial Data Scie
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marts-dev)](https://github.com/anuraghazra/github-readme-stats)
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,tensorflow,git,nextjs&perline=3)](https://skillicons.dev)
+<iframe><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="91d5713c-b969-4f7c-a433-a930fc94f204" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></iframe>
 <!--
 **marts-dev/marts-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
