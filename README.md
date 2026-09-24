@@ -1,6 +1,5 @@
 ## Hi there, I'm Martin 👋
 I like programming and machine learning. Currently studying GeoSpatial Data Science. 🤗
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marts-dev)](https://github.com/anuraghazra/github-readme-stats)
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,tensorflow,git,nextjs&perline=3)](https://skillicons.dev)
 [![Credily](https://images.credly.com/size/110x110/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob)]([https://skillicons.dev](https://www.credly.com/badges/91d5713c-b969-4f7c-a433-a930fc94f204/public_url))
